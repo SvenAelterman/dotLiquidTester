@@ -1,0 +1,12 @@
+[
+	[
+		{
+			"ProductID": 7000,
+			"ProductName": "Some name"
+		},
+		{
+			"ProductID": 7001,
+			"ProductName": "Another name"
+		}
+	]
+]

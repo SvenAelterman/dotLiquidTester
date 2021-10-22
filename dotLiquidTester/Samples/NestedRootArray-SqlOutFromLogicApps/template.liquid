@@ -1,0 +1,8 @@
+{
+items:
+[{% for prod in products %}
+	{
+		"item": {{ prod.ProductID }}
+	}{% unless forloop.last %},{% endunless %}
+{% endfor %}]
+}
